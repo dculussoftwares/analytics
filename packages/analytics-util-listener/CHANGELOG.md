@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2023-07-23)
+
+
+### Features
+
+* add @analytics/listener-utils lib for easier event handlers ([8cc43bb](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-listener/commit/8cc43bb7cdc7074981e3a1839f87279077885a55))
+* add `once` function export ([6ac9346](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-listener/commit/6ac9346f61e9123bfe9472f5cf12ce10b5e8f515))
+* add addWindowEvent, onError, onLoad ([5e61ac7](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-listener/commit/5e61ac7db4307eccee865227ef952da7ae82e584))
+
+
+
+
+
 ## [0.3.2](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-listener/compare/@analytics/listener-utils@0.3.1...@analytics/listener-utils@0.3.2) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/listener-utils

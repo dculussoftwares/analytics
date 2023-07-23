@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2023-07-23)
+
+
+### Features
+
+* **form-utils:** Add form utilities ([6198885](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-form/commit/6198885dc00d05206731743b0b049f3ad2e9fcb7))
+* **form-utils:** add getFormData, getInputData, & filterData method to api ([ad0ce4e](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-form/commit/ad0ce4ed4d4e94d1bf634ba96ddee65bd48b8c21))
+
+
+
+
+
 ## [0.3.13](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-form/compare/@analytics/form-utils@0.3.12...@analytics/form-utils@0.3.13) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/form-utils

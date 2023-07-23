@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.9.0 (2023-07-23)
+
+
+### Features
+
+* add AWS pinpoint ([909c950](https://github.com/DavidWells/analytics/commit/909c9501b57ca43fafc7fdf4a5224e4517110f2a))
+* shrink bundle ([61bb45f](https://github.com/DavidWells/analytics/commit/61bb45fa336e044c8a1d40b8f9fe69d5d865de7e))
+* **plugins:** add mixpanel ([d084055](https://github.com/DavidWells/analytics/commit/d084055e950cd73642a2df1e401360d3d11fc35c))
+
+
+
+
+
 ## [0.8.9](https://github.com/DavidWells/analytics/compare/analytics@0.8.8...analytics@0.8.9) (2023-06-16)
 
 **Note:** Version bump only for package analytics

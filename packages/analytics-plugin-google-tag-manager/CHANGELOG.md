@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.6.0 (2023-07-23)
+
+
+### Bug Fixes
+
+* google tag manager not working with custom script src ([7eb9683](https://github.com/DavidWells/analytics/commit/7eb96834b9d3fec8f06ebda72bd04e1986018e96))
+* GTM plugin undefined src ([8ce2852](https://github.com/DavidWells/analytics/commit/8ce2852968cad831a74827e5aeca2de7c3f2361e))
+* missing script src ([fe8e86f](https://github.com/DavidWells/analytics/commit/fe8e86f0b441d1908a07368ccc3a3f2f6c9ae1ee))
+* remove prototype issue ([5acaea4](https://github.com/DavidWells/analytics/commit/5acaea4dd2eb8ccd8aea8e5009d1f90ff8364ca4))
+* **vulnerabilitie:** prototype chain contamination vulnerability ([540d76b](https://github.com/DavidWells/analytics/commit/540d76bdf1a028c69ffda1cdb65438854dab20f5))
+* use properties.categories for google tag manager ([b52c6f7](https://github.com/DavidWells/analytics/commit/b52c6f71e0709d136318b270d397e698fe830693)), closes [#127](https://github.com/DavidWells/analytics/issues/127)
+
+
+### Features
+
+* **customerio:** Add node version for customerio plugin ([81bd120](https://github.com/DavidWells/analytics/commit/81bd12025b94ba01d062dc27b96ab54ee6f6afe0))
+* **ga:** add standalone gtag browser build ([e9414d4](https://github.com/DavidWells/analytics/commit/e9414d407c34607ae91eae6c775444d798b48083))
+* **google-tag-manager:** add gtag manager plugin ([439b14d](https://github.com/DavidWells/analytics/commit/439b14da9fe57cbb96ada65f9c5f12abe2fc612a))
+* **google-tag-manager:** allow customScriptSrc ([78659c6](https://github.com/DavidWells/analytics/commit/78659c6847a78042ab266f2a0a6290489f900a1b))
+* **google-tag-manager:** allow customScriptSrc - use custom script src from the config ([cc81706](https://github.com/DavidWells/analytics/commit/cc81706a6a45e32a374e70a3e313988262263d19))
+* **gtm:** support preview mode ([b644a2d](https://github.com/DavidWells/analytics/commit/b644a2d9cc16ab4f15f774542f2be1ad90768d5e))
+* allow gtm to use custom dataLayer ([27240ae](https://github.com/DavidWells/analytics/commit/27240ae6c88cb8e117bee610d0185d71ba093413))
+
+
+
+
+
 ## [0.5.5](https://github.com/DavidWells/analytics/compare/@analytics/google-tag-manager@0.5.4...@analytics/google-tag-manager@0.5.5) (2023-06-16)
 
 **Note:** Version bump only for package @analytics/google-tag-manager

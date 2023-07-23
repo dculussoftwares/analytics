@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.8.0 (2023-07-23)
+
+
+### Bug Fixes
+
+* Fix null array exception in session array ([b4fd833](https://github.com/DavidWells/analytics/commit/b4fd8335366203795da2fb3e2b8bde992a195835))
+* import events ([2df50b8](https://github.com/DavidWells/analytics/commit/2df50b8be1d5c7ecf14956094b4a3b55ad804dbe))
+
+
+### Features
+
+* add AWS pinpoint ([909c950](https://github.com/DavidWells/analytics/commit/909c9501b57ca43fafc7fdf4a5224e4517110f2a))
+* add AWS pinpoint ([7fb4f01](https://github.com/DavidWells/analytics/commit/7fb4f01ab2885128fdb0ee7a039c7f4551fb26b4))
+* add custom session / pageview keys ([87ebe25](https://github.com/DavidWells/analytics/commit/87ebe255ef57d950bc537a3cdce57cb74f34eaca))
+* add event mapping ([3cb45f3](https://github.com/DavidWells/analytics/commit/3cb45f375a15a47882ed0099d8885ce500d1ed90))
+* add getUser ([75a28a2](https://github.com/DavidWells/analytics/commit/75a28a2e5318b9cd9b7395e07a2281f1f435feb6))
+* add node.js AWS pinpoint integration ([90f8f6e](https://github.com/DavidWells/analytics/commit/90f8f6e1b56eb553a0322ef16a7f35a8daf4899b))
+* add support for multiple users using same client to pinpoint ([a6e6fba](https://github.com/DavidWells/analytics/commit/a6e6fbae3270c2e9778bea8fbcb831b2282a0ddb))
+* AWS pinpoint ([865d613](https://github.com/DavidWells/analytics/commit/865d613d6861e97072fb83e64404677d344123fd))
+* refactor session timeout to 30min of inactivity ([503e06a](https://github.com/DavidWells/analytics/commit/503e06a6ee34c5ec553953abf64995eb383cb387))
+
+
+
+
+
 ## [0.7.9](https://github.com/DavidWells/analytics/compare/@analytics/aws-pinpoint@0.7.8...@analytics/aws-pinpoint@0.7.9) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/aws-pinpoint

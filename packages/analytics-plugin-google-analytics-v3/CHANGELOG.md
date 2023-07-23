@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.7.0 (2023-07-23)
+
+
+### Features
+
+* add legacy google analytics v3 package ([83f0be2](https://github.com/DavidWells/analytics/commit/83f0be2428594c4eef7f46e261707d8baf619d00))
+
+
+
+
+
 ## [0.6.1](https://github.com/DavidWells/analytics/compare/@analytics/google-analytics-v3@0.6.0...@analytics/google-analytics-v3@0.6.1) (2022-07-22)
 
 **Note:** Version bump only for package @analytics/google-analytics-v3

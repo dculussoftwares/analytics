@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0 (2023-07-23)
+
+
+### Features
+
+* add perfume.js performance metrics plugin ([2a4b3f2](https://github.com/DavidWells/analytics/commit/2a4b3f2fa0c40a116c34d450f7eb2157ff511835))
+
+
+
+
+
 ## [0.2.1](https://github.com/DavidWells/analytics/compare/@analytics/perfumejs@0.2.0...@analytics/perfumejs@0.2.1) (2021-09-25)
 
 **Note:** Version bump only for package @analytics/perfumejs

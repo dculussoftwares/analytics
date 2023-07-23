@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2023-07-23)
+
+
+### Bug Fixes
+
+* config ref ([b05c971](https://github.com/DavidWells/analytics/commit/b05c971f0e49c7760383cfc342e8b4a103e01783))
+* fixes a sneaky bug that causes all ga4 events (gtag) to fire in debug mode ([1da35cb](https://github.com/DavidWells/analytics/commit/1da35cbef06d93605a4e82767f0e4c6a2ac9aca8))
+* pre-installed gtag causes analytics.js plugin to not initialize ([fd10ab2](https://github.com/DavidWells/analytics/commit/fd10ab2ebabf73beb6242a59b2a04a0af035044e))
+
+
+### Features
+
+* Add support for custom GA Task overrides for Electron ([72b3e0a](https://github.com/DavidWells/analytics/commit/72b3e0a274419acd0ada0e928103864219d17a92)), closes [#77](https://github.com/DavidWells/analytics/issues/77)
+* Add support for Google Analytics Custom dimensions ([50a0bbf](https://github.com/DavidWells/analytics/commit/50a0bbff74b878115203f18ab1624d3b7989ad0d))
+* add support for multiple instances & custom script source to GA ([c9b2510](https://github.com/DavidWells/analytics/commit/c9b2510e8cebedcad099684dae1c54debddf8d51))
+
+
+
+
+
 ## [1.0.7](https://github.com/DavidWells/analytics/compare/@analytics/google-analytics@1.0.6...@analytics/google-analytics@1.0.7) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/google-analytics

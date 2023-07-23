@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-07-23)
+
+
+### Features
+
+* **crazy-egg:** add crazy egg integration ([6e53633](https://github.com/DavidWells/analytics/commit/6e5363375b69c7466ee19454c8226d5f08d9b700))
+
+
+
+
+
 ## [0.1.2](https://github.com/DavidWells/analytics/compare/@analytics/crazy-egg@0.1.1...@analytics/crazy-egg@0.1.2) (2020-12-23)
 
 **Note:** Version bump only for package @analytics/crazy-egg

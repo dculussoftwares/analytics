@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2023-07-23)
+
+
+### Bug Fixes
+
+* Add missing https deps & do null check ([93101b5](https://github.com/DavidWells/analytics/commit/93101b5731a843634792d756cc3291452f307048)), closes [#158](https://github.com/DavidWells/analytics/issues/158)
+* fix plugins reference [#260](https://github.com/DavidWells/analytics/issues/260) ([fabf9c6](https://github.com/DavidWells/analytics/commit/fabf9c6058c883659f70da594767457bd51b0cd3))
+
+
+### chore
+
+* BREAKING CHANGE update snowplow from v2 to v3 ([03d4570](https://github.com/DavidWells/analytics/commit/03d4570cbcc49781f5a3f2e54f8a8fd84e7e0c0a))
+
+
+### BREAKING CHANGES
+
+* update snowplow from v2 to v3
+
+Signed-off-by: David Wells <>
+
+
+
+
+
 ## [0.3.3](https://github.com/DavidWells/analytics/compare/@analytics/snowplow@0.3.2...@analytics/snowplow@0.3.3) (2022-03-18)
 
 

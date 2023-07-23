@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-07-23)
+
+
+### Features
+
+* add @analytics/session-utils library ([c3d5500](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-session/commit/c3d5500c2d6d1867afc357663deced32f5a484a0))
+* add removeSession ([008f459](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-session/commit/008f459f7a2ccc1fe4cd103a17cc3765aa6b93d3))
+* enrich session info ([87daf57](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-session/commit/87daf57fe240b0f5e14905ab63a465a68725052b))
+
+
+
+
+
 ## [0.1.19](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-session/compare/@analytics/session-utils@0.1.18...@analytics/session-utils@0.1.19) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/session-utils

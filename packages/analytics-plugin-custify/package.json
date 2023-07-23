@@ -1,6 +1,6 @@
 {
     "name": "@analytics/custify",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Custify integration for 'analytics' module for browser & node",
     "projectMeta": {
         "provider": {

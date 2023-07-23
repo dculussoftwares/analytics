@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.5.0 (2023-07-23)
+
+
+### Features
+
+* add sessionStorage support to storage utils ([0b7373b](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-storage/commit/0b7373b90f00ae011aa87b3115929f5561146c61))
+* export SESSION_STORAGE and hasSessionStorage fn ([98affb6](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-storage/commit/98affb6ea45e960195e9051fd8f98b49fd50878c))
+* **storage:** export cookie utils & add getItem(‘key’, ‘all') ([3ed5b93](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-storage/commit/3ed5b93c9dddbdb3c42bc2992f1d18ed485d9948))
+
+
+
+
+
 ## [0.4.2](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-storage/compare/@analytics/storage-utils@0.4.1...@analytics/storage-utils@0.4.2) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/storage-utils

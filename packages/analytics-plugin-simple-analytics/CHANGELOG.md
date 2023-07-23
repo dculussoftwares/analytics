@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2023-07-23)
+
+
+### Bug Fixes
+
+* 🐛 use latest simple analytics script ([ec8579b](https://github.com/dculussoftwares/analytics/commit/ec8579b2a48767a99fa43e58ea633010cc69e065))
+* missing config value [#276](https://github.com/dculussoftwares/analytics/issues/276) ([202ffa4](https://github.com/dculussoftwares/analytics/commit/202ffa47654f46706209d59492bd3e94d720dcf5))
+
+
+### Features
+
+* 🎸 add custom domain support to simple analytics ([00e6ee0](https://github.com/dculussoftwares/analytics/commit/00e6ee05b45adc33e4cc916368765cb29b158184))
+* **simple-analytics:** Add simple analytics plugin ([6476a2e](https://github.com/dculussoftwares/analytics/commit/6476a2efb8d3b01738865c1f0842a43bb719e82a))
+
+
+
+
+
 ## [0.3.4](https://github.com/DavidWells/analytics/compare/@analytics/simple-analytics@0.3.3...@analytics/simple-analytics@0.3.4) (2022-06-10)
 
 

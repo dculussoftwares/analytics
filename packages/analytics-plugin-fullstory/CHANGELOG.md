@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0 (2023-07-23)
+
+
+### Features
+
+* **fullstory:** add fullstory plugin ([255ce77](https://github.com/DavidWells/analytics/commit/255ce7768fd958cb3e6686cae29837403b693bdb))
+
+
+
+
+
 ## [0.2.6](https://github.com/DavidWells/analytics/compare/@analytics/fullstory@0.2.4...@analytics/fullstory@0.2.6) (2022-11-09)
 
 **Note:** Version bump only for package @analytics/fullstory

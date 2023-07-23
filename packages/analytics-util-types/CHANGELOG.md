@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.7.0 (2023-07-23)
+
+
+### Features
+
+* add @analytics/types-utils ([07401b2](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/commit/07401b289a59425a5571885527340829eecd29e4))
+* add isBrowser ([c83c376](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/commit/c83c376f406d98b558e064cbd4f9d5f7eee8fe6d))
+* add isEmail to types ([0ced368](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/commit/0ced3688e02af8971830343593041d42f416c565))
+* add isNumber, isElement + isHidden checker ([220fbf8](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/commit/220fbf811a2357fbfd10a7f643dd86462a83923b))
+* add isRegex util ([ce931b5](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/commit/ce931b5158a91d00f8b59db413ccb476d0d606ef))
+* add truthy check ([5d47089](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/commit/5d4708986606f9be8c351e8f96c2b963755aac77))
+* add type checks ([f51819d](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/commit/f51819d69d0187159911a3b626fcf0c9d118580f))
+
+
+
+
+
 ## [0.6.2](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-types/compare/@analytics/type-utils@0.6.1...@analytics/type-utils@0.6.2) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/type-utils

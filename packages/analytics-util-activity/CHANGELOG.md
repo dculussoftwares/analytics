@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-07-23)
+
+
+### Features
+
+* add @analytics/activity-utils pkg ([7e5876e](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-activity/commit/7e5876e8e06619918723b647a4d8e4a90e1948b4))
+
+
+
+
+
 ## [0.1.15](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-activity/compare/@analytics/activity-utils@0.1.14...@analytics/activity-utils@0.1.15) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/activity-utils

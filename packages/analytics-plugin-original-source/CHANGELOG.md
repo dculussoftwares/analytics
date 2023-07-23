@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2023-07-23)
+
+
+### Features
+
+* **original-source-plugin:** save initial landing page & make analytics plugin instead of middleware ([3e50a93](https://github.com/DavidWells/analytics/commit/3e50a93e0df4d8658ec193382136ac42de661132))
+* **original-src:** add standalone browser build ([f7f7837](https://github.com/DavidWells/analytics/commit/f7f78373503c7e3cce16ca52af03635f65e7ff31))
+* **original-src:** clear localstorage values on analytics.reset() ([2ad36b8](https://github.com/DavidWells/analytics/commit/2ad36b85f142f63f9ce9b503c7708e8899ee0336))
+* **plugins:** add original source plugin ([1662c82](https://github.com/DavidWells/analytics/commit/1662c820024ca54527d37b37632537ea09fa187d))
+
+
+
+
+
 ## [1.0.11](https://github.com/DavidWells/analytics/compare/@analytics/original-source-plugin@1.0.10...@analytics/original-source-plugin@1.0.11) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/original-source-plugin

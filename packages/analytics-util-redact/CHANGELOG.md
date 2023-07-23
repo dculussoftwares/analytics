@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-07-23)
+
+
+### Features
+
+* add redact lib ([0423deb](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-redact/commit/0423deb2ededd60851efa1a47f20bd583012a1b6))
+
+
+
+
+
 ## [0.1.3](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-redact/compare/@analytics/redact-utils@0.1.2...@analytics/redact-utils@0.1.3) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/redact-utils

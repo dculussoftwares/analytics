@@ -3,6 +3,58 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.0.0 (2023-07-23)
+
+
+### Bug Fixes
+
+* remove prototype issue ([5acaea4](https://github.com/DavidWells/analytics/commit/5acaea4dd2eb8ccd8aea8e5009d1f90ff8364ca4))
+* storage import ref ([5b44ea6](https://github.com/DavidWells/analytics/commit/5b44ea684e14401c671900e963ebfa1ae86b13e8))
+* **utils:** fix build for node & testing + add iife build ([20a5021](https://github.com/DavidWells/analytics/commit/20a5021a19329803ef8a7217f2239838d0723f1d))
+* **utils:** remove babel transpiler. [@todo](https://github.com/todo) fix so utils transpiles and is consumable by analytics iife ([d3b8f58](https://github.com/DavidWells/analytics/commit/d3b8f58ede60c017ebb6376f55c90bb9aa482154))
+
+
+### Code Refactoring
+
+* streamline analytics-utils ([641a917](https://github.com/DavidWells/analytics/commit/641a9172130d2bb2e0bf524e649450bc34f90298))
+
+
+### Features
+
+* add dlv for dotpot ([f1a2771](https://github.com/DavidWells/analytics/commit/f1a2771d3f1615bd6af4f334f7aba31b63db12d6))
+* add onRouteChange utility ([bf8701b](https://github.com/DavidWells/analytics/commit/bf8701b6ea5ff39ed47b87251c569aeaa5da4f82))
+* add scroll util ([eb6aa1a](https://github.com/DavidWells/analytics/commit/eb6aa1a39d947a6e89816ea0cab24b18ccd10f44))
+* add shared type checking functions ([46729af](https://github.com/DavidWells/analytics/commit/46729afe8999986947f7822b15d6d58200b8203d))
+* add throttle util ([22af474](https://github.com/DavidWells/analytics/commit/22af4748b4faa376cb345975ebb22aadc0348dab))
+* **utils:** add adblock detector utility ([2b03223](https://github.com/DavidWells/analytics/commit/2b03223da6531a72204a2b1e87f9181eccce9141))
+* **utils:** add browser locale ([0799127](https://github.com/DavidWells/analytics/commit/0799127605431b6c0872ee0c0ae31fb761de2cf3))
+* **utils:** add browserLocal util ([f884941](https://github.com/DavidWells/analytics/commit/f884941815bf5dea97ad6f921f5b1f83bbe32a88))
+* **utils:** add clientside url parsing utils ([174805d](https://github.com/DavidWells/analytics/commit/174805d20917287ef9e618c6e914411002860acc))
+* **utils:** add cookie utils ([0c92eb9](https://github.com/DavidWells/analytics/commit/0c92eb945906dbc4a848445d3cbbbc97969f283e))
+* **utils:** add extendApi method for easier extending of provider plugins ([2fe0851](https://github.com/DavidWells/analytics/commit/2fe0851b3fcfd44b4c157dcfb427994aa4c35820))
+* **utils:** add get timeZone util ([101ac1e](https://github.com/DavidWells/analytics/commit/101ac1ef4fb6d874cc8d22b51f0201e04fc499e7))
+* **utils:** add isScriptLoaded util ([6e53aa5](https://github.com/DavidWells/analytics/commit/6e53aa574d8e97020339ff200221768e3874c427))
+* **utils:** add noOp util ([3283f6f](https://github.com/DavidWells/analytics/commit/3283f6f268708a841e9d8875de7460fbecc24f27))
+* **utils:** add ParseReferrer Util ([75cff90](https://github.com/DavidWells/analytics/commit/75cff90aae8d6c5e740db381def6f5b3a0620810))
+* **utils:** add storage util ([ad8f6c6](https://github.com/DavidWells/analytics/commit/ad8f6c664a001cf260923d0afd89d64051c6534e))
+* **utils:** update storage and allow for setting/getting values from specific locations ([7b730d4](https://github.com/DavidWells/analytics/commit/7b730d499d2cb22a47ae22c9fc85e9521fd8fcf4))
+
+
+### Reverts
+
+* Revert "doing a pass at changes to support react native" ([5008abc](https://github.com/DavidWells/analytics/commit/5008abcd612314af90faacbe79bc4c6cbd0f4bab))
+
+
+### BREAKING CHANGES
+
+* removes types, noOp, & storage
+
+Signed-off-by: David Wells <>
+
+
+
+
+
 ## [1.0.12](https://github.com/DavidWells/analytics/compare/analytics-utils@1.0.11...analytics-utils@1.0.12) (2023-05-27)
 
 **Note:** Version bump only for package analytics-utils

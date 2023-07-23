@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.6.0 (2023-07-23)
+
+
+### Features
+
+* add customScriptSrc to hubspot plugin ([3b1d328](https://github.com/DavidWells/analytics/commit/3b1d3280a2024339211755db03a8b924fd062405))
+* add flushOnIdentify to immediately identify in hubspot ([79696a0](https://github.com/DavidWells/analytics/commit/79696a0d031100b7b87e499e12ad7d3a88acd564))
+* add reset to hubspot ([1663343](https://github.com/DavidWells/analytics/commit/166334341504c8811e3dc0105561f45569749f93))
+* **hubspot:** add HubSpot plugin ([799c7f7](https://github.com/DavidWells/analytics/commit/799c7f753ebc3c9bd290b07e978988d400be6c7c))
+
+
+
+
+
 ## [0.5.1](https://github.com/DavidWells/analytics/compare/@analytics/hubspot@0.5.0...@analytics/hubspot@0.5.1) (2021-03-11)
 
 **Note:** Version bump only for package @analytics/hubspot

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-07-23)
+
+
+### Bug Fixes
+
+* typo in scrollMin ([da79b2d](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-scroll/commit/da79b2d831982841a46a5461cb60ab4f80f21f3e))
+
+
+### Features
+
+* add scroll util ([eb6aa1a](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-scroll/commit/eb6aa1a39d947a6e89816ea0cab24b18ccd10f44))
+
+
+
+
+
 ## [0.1.22](https://github.com/DavidWells/analytics/tree/master/packages/analytics-util-scroll/compare/@analytics/scroll-utils@0.1.21...@analytics/scroll-utils@0.1.22) (2023-05-27)
 
 **Note:** Version bump only for package @analytics/scroll-utils
